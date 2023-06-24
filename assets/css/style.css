@@ -1,4 +1,4 @@
-/* it defines the size of overall webpage   */
+/* it defines the layout of overall webpage   */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -65,17 +65,19 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* it sets the content to left side  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* it sets the content to right side  */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* this property sets the content inline block and its width */
 .content {
     width: 75%;
     display: inline-block;
