@@ -1,30 +1,28 @@
+/* it defines the size of overall webpage   */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*  body is supposed to assign background color to the whole webpage */
 body {
     background-color: #d9dcd6;
 }
 
-/* CSS for header1 class  starts here */
+/* ----------------------------------------------------------------- */
+/* CSS for header1 class  starts here. This class defines the padding,, backgroundcolor, text color and text style in this section*/
 .header1 {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*  */
 .header1 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header1 h1 .seo {
-    color: #d9dcd6;
-}
-
+/* navigation bar styling starts here navigation bar is displayed in header and has three links */
 .header1 section {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,9 +45,11 @@ a {
     text-decoration: none;
 }
 /* header1 class css code Ends here*/
+/* -------------------------------------------------------------------------------- */
 
 
 
+/* class hero defines the style of this section */
 p {
     font-size: 16px;
 }
@@ -79,6 +79,70 @@ p {
     margin-left: 20px;
 }
 
+
+
+/* these three classes are inside content class and it defines the section size,color,font style and margin-bottom   */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
+ /* this css property defines the maximim size of image inside particular class  */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+ /* this css property defines the size of h2 inside particular class  */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*----------------------code for section main ends here -------------------------  */
+
+
+
+/* this code defines the right section lead generation style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,59 +202,6 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer-style {
     padding: 30px;
