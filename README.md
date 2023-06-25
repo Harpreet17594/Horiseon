@@ -26,11 +26,11 @@ Benefits of using these services :
 ## Links
 This is the link to github repository:
 
-       https://img.shields.io/badge/HTM 
-
+    https://github.com/Harpreet17594/Horiseon
+    
 The link to Deployed Web application:
 
-        https://img.shields.io/badge/HTM
+    https://harpreet17594.github.io/Horiseon/
 
 ## Languages usage
 
