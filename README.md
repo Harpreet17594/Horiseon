@@ -21,7 +21,7 @@ Benefits of using these services :
 4. [Installation](#installation)
 5. [Contribution](#contribution)
 6. [License](#license)
-7. [Support](#support)
+7. [Copyright](#copyright)
 
 ## Links
 This is the link to github repository:
@@ -34,9 +34,9 @@ The link to Deployed Web application:
 
 ## Languages usage
 
-![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![50%](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -70,12 +70,12 @@ No installation required.
 
 ## Contribution 
 
-Not any contributor yet.
+Not any contributor .
 
 ## License
 
 This project is MIT licensed.
 
-## Support
+## Copyright
 
 &copy; 2019 Horiseon Social Solution Services, Inc.
